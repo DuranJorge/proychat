@@ -1,0 +1,10 @@
+{
+  "nombre": "socket-chat-anali",
+  "versión": "0.0.1",
+  "descripción": "El chat para un angel",
+  "dependencias": {},
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^2.2.0"
+  }
+}
