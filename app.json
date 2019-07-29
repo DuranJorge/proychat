@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-anali",
+  "description": "El chat para un angel",
+  "website": "https://github.com/DuranJorge/proychat",
+  "repository": "https://github.com/DuranJorge/proychat",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}
